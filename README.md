@@ -28,7 +28,7 @@
 ![x](https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=for-the-badge&logo=netflix&logoColor=white)
 ![x1](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
 
-![g](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWk1dGs0cnJtYTJ0MXN1dmh6OXU3a3N3ZnBlaXl5OGkweGMzZ2RyaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kg1WHzX4DktONZ1HSI/giphy.gif)
+![g](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjJmdGhhenpkOHExZGx4ano3NWxoZndmcmpydmlqZWpoa204czM0MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aR69F5A9tz2kkVYUAz/giphy.gif)
 ![v](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cW84cjBpenk5Y3h4MmdxbnJyYzVudmM4eWZlaXFxMnZ3MjB3NHpqaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YVbFW9JoU5v1K/giphy.gif)
 
 ---
