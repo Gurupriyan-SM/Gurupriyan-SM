@@ -29,6 +29,8 @@
 ![x1](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
 
 ![g](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjJmdGhhenpkOHExZGx4ano3NWxoZndmcmpydmlqZWpoa204czM0MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aR69F5A9tz2kkVYUAz/giphy.gif)
+![f](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGtnczdsb2Q0ZGNqdnN6MmQ2MWMwbW42MnV4eThrNHZlcjFrZTUzbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TIG6XFVuOriidsTsdu/giphy.gif)
+![d](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODRuMmRxMmF6dzVnZTY3bHcxc2luM3J1YTMzZ2EyeWF0Z2h0NG45aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NRKql0nuDIX8dJfjT7/giphy.gif)
 ![v](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cW84cjBpenk5Y3h4MmdxbnJyYzVudmM4eWZlaXFxMnZ3MjB3NHpqaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YVbFW9JoU5v1K/giphy.gif)
 
 ---
